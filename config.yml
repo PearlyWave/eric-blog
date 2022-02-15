@@ -2,3 +2,10 @@ baseURL: https://adoring-yalow-e69e16.netlify.app
 languageCode: en-us
 title: Eric's Blog
 theme: PaperMod
+params:
+    homeInfoParams:
+        Title: Hi, I'm Eric.
+        Content: Have a good day!
+    socialIcons:
+        - name: github
+          url: "https://github.com/PearlyWave"
