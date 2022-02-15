@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Eric&#39;s Blog</title>
+    <link>https://adoring-yalow-e69e16.netlify.app/</link>
+    <description>Recent content on Eric&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Dec 2021 21:03:37 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Feb 2022 21:27:43 +0800</lastBuildDate><atom:link href="https://adoring-yalow-e69e16.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Change log</title>
+      <link>https://adoring-yalow-e69e16.netlify.app/posts/change_log/</link>
+      <pubDate>Tue, 15 Feb 2022 21:27:43 +0800</pubDate>
+      
+      <guid>https://adoring-yalow-e69e16.netlify.app/posts/change_log/</guid>
+      <description> 02/15/2022 Add change log 02/14/2022 Website starts with hugo, GitHub and Netlify  </description>
+    </item>
+    
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://adoring-yalow-e69e16.netlify.app/posts/my-first-post/</link>
       <pubDate>Mon, 13 Dec 2021 21:03:37 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://adoring-yalow-e69e16.netlify.app/posts/my-first-post/</guid>
       <description>This is my first post with Hugo!
 It&amp;rsquo;s great!
 Eric</description>

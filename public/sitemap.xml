@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://adoring-yalow-e69e16.netlify.app/posts/change_log/</loc>
+    <lastmod>2022-02-15T21:27:43+08:00</lastmod>
+  </url><url>
+    <loc>https://adoring-yalow-e69e16.netlify.app/</loc>
+    <lastmod>2022-02-15T21:27:43+08:00</lastmod>
+  </url><url>
+    <loc>https://adoring-yalow-e69e16.netlify.app/posts/</loc>
+    <lastmod>2022-02-15T21:27:43+08:00</lastmod>
+  </url><url>
+    <loc>https://adoring-yalow-e69e16.netlify.app/posts/my-first-post/</loc>
     <lastmod>2021-12-13T21:03:37+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2021-12-13T21:03:37+08:00</lastmod>
+    <loc>https://adoring-yalow-e69e16.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2021-12-13T21:03:37+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://adoring-yalow-e69e16.netlify.app/tags/</loc>
   </url>
 </urlset>
