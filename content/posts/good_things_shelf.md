@@ -14,7 +14,13 @@ draft: false
 - Steve说
 - Blow your mind
 
+## Software
+
+- 时间管理：滴答清单
+- 知识管理：obsidian, flomo
+
 
 
 Thanks to those who are willing to share.
 
+Last updated: 2022/3/4
