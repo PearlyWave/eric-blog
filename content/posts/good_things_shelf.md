@@ -6,6 +6,7 @@ draft: false
 
 ## People
 
+- [bmpi](bmpi.dev)
 - [She's Danni](https://www.youtube.com/c/ShesDanni/featured)
 - [Randy Lu](https://lutaonan.com/)
 
@@ -23,4 +24,4 @@ draft: false
 
 Thanks to those who are willing to share.
 
-Last updated: 2022/3/4
+Last updated: 2022/3/6
