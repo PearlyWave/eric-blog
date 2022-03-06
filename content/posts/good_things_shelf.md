@@ -6,7 +6,7 @@ draft: false
 
 ## People
 
-- [bmpi](bmpi.dev)
+- [bmpi](https://www.bmpi.dev/)
 - [She's Danni](https://www.youtube.com/c/ShesDanni/featured)
 - [Randy Lu](https://lutaonan.com/)
 
