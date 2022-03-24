@@ -4,6 +4,14 @@ date: 2022-02-24T19:50:28+08:00
 draft: false
 ---
 
+## Weekly
+
+- [Star Rocket 科技创业周报](https://blog.starrocket.io/star-rocket-newsletter/)
+
+## Forums
+
+- [Hacker News](https://news.ycombinator.com/)
+
 ## People
 
 - [bmpi](https://www.bmpi.dev/) ：涉及[终身学习](https://www.bmpi.dev/self/build-personal-knowledge-system)、全栈技术和投资理财
@@ -18,8 +26,8 @@ draft: false
 ## Software
 
 - 时间管理：滴答清单（使用 806 天，完成了 1631 个任务 🆒）
-
 - 知识管理：obsidian（笔记主力软件）, flomo（用来及一些灵感或者小的笔记，使用了 475 天，记录了 866 个想法）
+- 目标管理：Vision（个人 OKR 软件）
 
 ## Articles
 
@@ -31,4 +39,4 @@ draft: false
 
 Thanks to those who are willing to share.
 
-Last updated: 2022/3/15
+Last updated: 2022/3/24
