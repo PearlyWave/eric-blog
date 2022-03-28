@@ -6,6 +6,7 @@ draft: false
 
 ## Weekly
 
+- [DecoHack](https://www.decohack.com/): 产品；独立创作者
 - [Star Rocket 科技创业周报](https://blog.starrocket.io/star-rocket-newsletter/)
 
 ## Forums
