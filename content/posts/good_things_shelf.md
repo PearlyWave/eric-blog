@@ -21,12 +21,16 @@ draft: false
 
 ### Weekly
 
+- [Star Rocket 科技创业周报](https://blog.starrocket.io/star-rocket-newsletter/) 
 - [DecoHack](https://www.decohack.com/): 产品；独立创作者
-- [Star Rocket 科技创业周报](https://blog.starrocket.io/star-rocket-newsletter/)
 
 ### Forums
 
 - [Hacker News](https://news.ycombinator.com/)
+
+### Podcasts
+
+- [星箭廣播](https://blog.starrocket.io/posts/category/podcast/)（和上面的 Star Rocket 周报是一家）
 
 ## More than coding
 
@@ -44,10 +48,10 @@ draft: false
 ## Applications I'm using
 
 - 时间管理：滴答清单（使用 806 天，完成了 1631 个任务 🆒）
-- 知识管理：obsidian（笔记主力软件）, flomo（用来及一些灵感或者小的笔记，使用了 475 天，记录了 866 个想法）
+- 知识管理：Obsidian（笔记主力软件）, flomo（用来及一些灵感或者小的笔记，使用了 475 天，记录了 866 个想法）
 - 目标管理：Vision（个人 OKR 软件）
-
-
+- 浏览器插件：Weava Highlighter（网页荧光笔）
+- 表格：Airtable
 
 - BGM：[lofi.co](https://lofi.co/)
 
@@ -55,4 +59,4 @@ draft: false
 
 Thanks to those who are willing to share.
 
-Last updated: 2022/4/4
+Last updated: 2022/4/5
