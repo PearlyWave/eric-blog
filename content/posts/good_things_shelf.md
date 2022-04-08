@@ -4,6 +4,11 @@ date: 2022-02-24T19:50:28+08:00
 draft: false
 ---
 
+<div>
+    <h2>Table Of Contents</h2>
+    {{ .Page.TableOfContents }}
+</div>
+
 ## Learning materials
 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
