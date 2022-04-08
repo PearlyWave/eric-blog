@@ -2,26 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Eric&#39;s Blog</title>
-    <link>https://adoring-yalow-e69e16.netlify.app/</link>
+    <link>https://ericji.net/</link>
     <description>Recent content on Eric&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Feb 2022 21:27:43 +0800</lastBuildDate><atom:link href="https://adoring-yalow-e69e16.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Feb 2022 19:50:28 +0800</lastBuildDate><atom:link href="https://ericji.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Good Things</title>
+      <link>https://ericji.net/posts/good_things_shelf/</link>
+      <pubDate>Thu, 24 Feb 2022 19:50:28 +0800</pubDate>
+      
+      <guid>https://ericji.net/posts/good_things_shelf/</guid>
+      <description>Learning materials  Teach Yourself Computer Science   You need answers to these questions:
+ Which subjects should you learn, and why? What is the best book or video lecture series for each subject?    CS自学指南   某种程度上，这本书更像是一个根据我的体验来排序的课程搜索引擎，帮助大家足不出户，体验世界顶级名校的计算机优质课程。
+ Information input Weekly  Star Rocket 科技创业周报 DecoHack: 产品；独立创作者  Forums  Hacker News  Podcasts  星箭廣播（和上面的 Star Rocket 周报是一家）  More than coding People  bmpi ：涉及终身学习、全栈技术和投资理财 She&amp;rsquo;s Danni：程序员的生活 Randy Lu：前端、编程学习  Podcasts  Steve说：心理学、访谈 Blow your mind：心理学、杂谈  Applications I&amp;rsquo;m using   时间管理：滴答清单（使用 806 天，完成了 1631 个任务 🆒）</description>
+    </item>
+    
     <item>
       <title>Change log</title>
-      <link>https://adoring-yalow-e69e16.netlify.app/posts/change_log/</link>
+      <link>https://ericji.net/posts/change_log/</link>
       <pubDate>Tue, 15 Feb 2022 21:27:43 +0800</pubDate>
       
-      <guid>https://adoring-yalow-e69e16.netlify.app/posts/change_log/</guid>
-      <description> 02/15/2022 Add change log 02/14/2022 Website starts with hugo, GitHub and Netlify  </description>
+      <guid>https://ericji.net/posts/change_log/</guid>
+      <description> 03/05/2022 New domain: ericji.net, https complete. 03/04/2022 Buy and set a domain. 02/15/2022 Add change log, home info and social icons. 02/14/2022 Website starts with Hugo, GitHub and Netlify.  </description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://adoring-yalow-e69e16.netlify.app/posts/my-first-post/</link>
+      <link>https://ericji.net/posts/my-first-post/</link>
       <pubDate>Mon, 13 Dec 2021 21:03:37 +0800</pubDate>
       
-      <guid>https://adoring-yalow-e69e16.netlify.app/posts/my-first-post/</guid>
+      <guid>https://ericji.net/posts/my-first-post/</guid>
       <description>This is my first post with Hugo!
 It&amp;rsquo;s great!
 Eric</description>
